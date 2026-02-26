@@ -43,7 +43,7 @@ For generating your own `copilot-instructions.md`, type
 Users can create their own prompts or instructions that match the regex
 `.github/**/user_.md` which is captured in the [.gitignore](../.gitignore).
 
-## Contributing Guidelines
+## Contribution Guidelines
 Use `/git_commit_ghc`
 
 - [.github/instructions](./instructions/): Instructions that are automatically
